@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @debabrata100
 - 👀 I’m interested in Javascript
 - 🌱 I’m a senior software developer.
-- 💞️ I’m looking to collaborate on Javascript world.
 - 📫 How to reach me (m.debabrata100@gmail.com)
 
 <!---
